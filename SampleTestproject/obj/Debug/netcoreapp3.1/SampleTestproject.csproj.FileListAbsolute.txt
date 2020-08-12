@@ -1,0 +1,12 @@
+/Users/armelsleal/Projects/SampleTestproject/SampleTestproject/bin/Debug/netcoreapp3.1/SampleTestproject.deps.json
+/Users/armelsleal/Projects/SampleTestproject/SampleTestproject/bin/Debug/netcoreapp3.1/SampleTestproject.runtimeconfig.json
+/Users/armelsleal/Projects/SampleTestproject/SampleTestproject/bin/Debug/netcoreapp3.1/SampleTestproject.runtimeconfig.dev.json
+/Users/armelsleal/Projects/SampleTestproject/SampleTestproject/bin/Debug/netcoreapp3.1/SampleTestproject.dll
+/Users/armelsleal/Projects/SampleTestproject/SampleTestproject/bin/Debug/netcoreapp3.1/SampleTestproject.pdb
+/Users/armelsleal/Projects/SampleTestproject/SampleTestproject/obj/Debug/netcoreapp3.1/SampleTestproject.csprojAssemblyReference.cache
+/Users/armelsleal/Projects/SampleTestproject/SampleTestproject/obj/Debug/netcoreapp3.1/SampleTestproject.AssemblyInfoInputs.cache
+/Users/armelsleal/Projects/SampleTestproject/SampleTestproject/obj/Debug/netcoreapp3.1/SampleTestproject.AssemblyInfo.cs
+/Users/armelsleal/Projects/SampleTestproject/SampleTestproject/obj/Debug/netcoreapp3.1/SampleTestproject.csproj.CoreCompileInputs.cache
+/Users/armelsleal/Projects/SampleTestproject/SampleTestproject/obj/Debug/netcoreapp3.1/SampleTestproject.dll
+/Users/armelsleal/Projects/SampleTestproject/SampleTestproject/obj/Debug/netcoreapp3.1/SampleTestproject.pdb
+/Users/armelsleal/Projects/SampleTestproject/SampleTestproject/obj/Debug/netcoreapp3.1/SampleTestproject.genruntimeconfig.cache
